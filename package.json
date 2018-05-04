@@ -1,0 +1,12 @@
+{
+  "name": "likelihood",
+  "version": "0.1.0",
+  "description": "Is it true?",
+  "main": "index.js",
+  "repository": "git@github.com:bntzio/likelihood.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
